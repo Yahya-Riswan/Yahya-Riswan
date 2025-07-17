@@ -74,9 +74,22 @@ const yahya = {
 <div align="center">
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yahya-Riswan&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yahya-Riswan&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahya-Riswan&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="http://www.github.com/Yahya-Riswan">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yahya-Riswan&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  </a>
+
+  <a href="http://www.github.com/Yahya-Riswan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya-Riswan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</div>
+<a href="http://www.github.com/Yahya-Riswan">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya-Riswan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" />
+</a>  
+
+<a href="https://github.com/Yahya-Riswan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahya-Riswan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>  
+
+---
 </div>
 
 ---

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFC3&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yahya+Riswan+PK+%F0%9F%91%8B;Python+Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+%F0%9F%91%8B;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yahya+Riswan+PK+%F0%9F%91%8B;Python+Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+%F0%9F%91%8B;" alt="Typing SVG" />
 </div>
 # 💫 About Me:
 

@@ -96,7 +96,7 @@ const yahya = {
 ---
 
 <div align="center">
-  <img src="https://www.codewars.com/users/Yahya%20Riswan%20Pk/badges/small" />
+  <img src="https://www.codewars.com/users/Yahya%20Riswan%20Pk/badges/large" />
 </div>
 
 ---

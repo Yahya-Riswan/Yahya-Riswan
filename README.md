@@ -96,6 +96,15 @@ const yahya = {
 ---
 
 <div align="center">
+  <img src="https://www.codewars.com/users/Yahya%20Riswan%20Pk/badges/small" />
+</div>
+
+---
+
+
+---
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yahya-Riswan&style=for-the-badge&color=00FFC3" alt="Profile Views" />
   
   <h3>⭐ Thanks for visiting! Let's build something amazing together! 🚀</h3>
